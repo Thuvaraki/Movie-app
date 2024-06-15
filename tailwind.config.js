@@ -15,4 +15,5 @@ module.exports = {
     },
   },
   plugins: [],
+  darkMode: "class", //tells Tailwind to use CSS classes to manage dark mode styles.
 };
